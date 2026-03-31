@@ -39,7 +39,7 @@ Notion: This page is only provided to anonymously display content to reviewers. 
 | <video src="https://github.com/user-attachments/assets/15995bd6-9685-4669-a7df-1b479f8fa863" controls width="260"></video> | <video src="https://github.com/user-attachments/assets/0abba59e-4b5a-4ae1-84be-beba6bf5a980" controls width="260"></video> |
 ---
 
-## 1min Long Video Generation Comparison
+## 1min Long Video Generation
 
 | | | |
 |---|---|---|
